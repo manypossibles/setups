@@ -38,8 +38,20 @@
         "header":"",
         "subtitle":"",
         "boldtext":"Get Started",
+        "bodytext":"",
         "link":"",
         "color":"#D779E2",
         "textcolor":"#FFFFFF"
+    },
+    {
+        "id":5,
+        "name": "",
+        "header":"Discover Your Squad’s Core Values",
+        "subtitle":"",
+        "bodytext":"We are going to get to know your squad and begin to define the value set that will be the driving force for your positive work together.Getting buy-in from all squad members helps to achieve alignment and common ground on what is important to strive for.",
+        "boldtext":"",
+        "link":"",
+        "color":"#FFFFFF",
+        "textcolor":"#000000"
     }
 ]
