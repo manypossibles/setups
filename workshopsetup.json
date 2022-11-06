@@ -1,14 +1,38 @@
 [
     {
         "id":1,
-        "name": "Start"
+        "name": "Start",
+        "header":"",
+        "subtitle":"Design Ops: A Guide To Building a Squad and Operate as a Design Agency.",
+        "boldtext":"Squads & Design, Who Cares?",
+        "bodytext":"",
+        "link":""
     },
     {
         "id":2,
-        "name": "Goal"
+        "name": "Goal",
+        "header":"Goal",
+        "subtitle":"A sentence about the goal of this workshop.",
+        "boldtext":"",
+        "bodytext":"",
+        "link":""
     },
     {
         "id":3,
-        "name": "Explanation"
+        "name": "Explanation",
+        "header":"",
+        "subtitle":"",
+        "boldtext":"",
+        "bodytext":"What is creative operations and why should we care about how we work. And how we can manage others work too. Write something about squads. Where can this come from and why it is important. Cross polination with a cool graphic.",
+        "link":""
+    },
+    {
+        "id":4,
+        "name": "Link",
+        "header":"",
+        "subtitle":"",
+        "boldtext":"",
+        "bodytext":"",
+        "link":"www.manypossibles.com"
     }
 ]
