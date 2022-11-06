@@ -1,0 +1,14 @@
+[
+    {
+        "id":1,
+        "name": "Start"
+    },
+    {
+        "id":2,
+        "name": "Goal"
+    },
+    {
+        "id":3,
+        "name": "Explanation"
+    }
+]
