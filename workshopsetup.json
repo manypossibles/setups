@@ -7,7 +7,8 @@
         "boldtext":"Squads & Design, Who Cares?",
         "bodytext":"",
         "link":"", 
-        "color":"#9561D3"
+        "color":"#9561D3",
+        "textcolor":""
     },
     {
         "id":2,
@@ -17,7 +18,8 @@
         "boldtext":"",
         "bodytext":"",
         "link":"",
-        "color":"#FFFFFF"
+        "color":"#FFFFFF",
+        "textcolor":"#000000"
     },
     {
         "id":3,
@@ -27,7 +29,8 @@
         "boldtext":"",
         "bodytext":"What is creative operations and why should we care about how we work. And how we can manage others work too. Write something about squads. Where can this come from and why it is important. Cross polination with a cool graphic.",
         "link":"",
-        "color":"#D779E2"
+        "color":"#D779E2",
+        "textcolor":""
     },
     {
         "id":4,
@@ -37,6 +40,7 @@
         "boldtext":"",
         "bodytext":"",
         "link":"www.manypossibles.com",
-        "color":"#FFFFFF"
+        "color":"#FFFFFF",
+        "textcolor":"#000000"
     }
 ]
