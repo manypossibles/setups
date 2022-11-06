@@ -60,7 +60,7 @@
         "textcolor":"#000000"
     },
     {
-        "id":5,
+        "id":6,
         "name": "",
         "header":"",
         "subtitle":"",
@@ -70,5 +70,90 @@
         "step":"1",
         "color":"#FFFFFF",
         "textcolor":"#000000"
+    },
+    {
+        "id":7,
+        "name": "",
+        "header":"",
+        "subtitle":"",
+        "bodytext":"Continue individually and come up with at least 10 values that you already practice or believe would be important to practice.",
+        "boldtext":"",
+        "link":"",
+        "step":"2",
+        "color":"#FFFFFF",
+        "textcolor":"#000000"
+    },
+    {
+        "id":8,
+        "name": "",
+        "header":"",
+        "subtitle":"",
+        "bodytext":"Come together as a squad and share your thoughts with each other. Have each squad member write down 5 values on sticky notes privately, then post them on the wall for discussion.",
+        "boldtext":"",
+        "link":"",
+        "step":"3",
+        "color":"#FFFFFF",
+        "textcolor":"#000000"
+    },
+    {
+        "id":9,
+        "name": "",
+        "header":"",
+        "subtitle":"",
+        "bodytext":"Let each squad member explain the values they identified.",
+        "boldtext":"",
+        "link":"",
+        "step":"4",
+        "color":"#FFFFFF",
+        "textcolor":"#000000"
+    },
+    {
+        "id":10,
+        "name": "",
+        "header":"",
+        "subtitle":"",
+        "bodytext":"Group common values on the wall to narrow your options and identify trends.",
+        "boldtext":"",
+        "link":"",
+        "step":"5",
+        "color":"#FFFFFF",
+        "textcolor":"#000000"
+    },
+    {
+        "id":11,
+        "name": "",
+        "header":"",
+        "subtitle":"",
+        "bodytext":"After discussion, give each squad member 5 votes to cast their votes for the values they feel best represent the squad.",
+        "boldtext":"",
+        "link":"",
+        "step":"6",
+        "color":"#FFFFFF",
+        "textcolor":"#000000"
+    },
+    {
+        "id":11,
+        "name": "",
+        "header":"",
+        "subtitle":"",
+        "bodytext":"Further discussion may be required to trim the list to the essentials. Once you have a final list, create a shared document with a detailed description of each value.",
+        "boldtext":"",
+        "link":"",
+        "step":"7",
+        "color":"#FFFFFF",
+        "textcolor":"#000000"
+    },
+    {
+        "id":11,
+        "name": "",
+        "header":"Your Finised",
+        "subtitle":"Now it's time to put this into action.",
+        "bodytext":"",
+        "boldtext":"Go To It!",
+        "link":"",
+        "step":"",
+        "color":"##3D003B",
+        "textcolor":"#FFFFFF"
     }
+    
 ]
