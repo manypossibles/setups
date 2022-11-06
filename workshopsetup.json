@@ -29,8 +29,8 @@
         "boldtext":"",
         "bodytext":"What is creative operations and why should we care about how we work. And how we can manage others work too. Write something about squads. Where can this come from and why it is important. Cross polination with a cool graphic.",
         "link":"",
-        "color":"#D779E2",
-        "textcolor":"#FFFFFF"
+        "color":"#FFFFFF",
+        "textcolor":"#000000"
     },
     {
         "id":4,
@@ -40,7 +40,7 @@
         "boldtext":"",
         "bodytext":"",
         "link":"www.manypossibles.com",
-        "color":"#FFFFFF",
-        "textcolor":"#000000"
+        "color":"#D779E2",
+        "textcolor":"#FFFFFF"
     }
 ]
