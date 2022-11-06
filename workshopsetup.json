@@ -6,7 +6,8 @@
         "subtitle":"Design Ops: A Guide To Building a Squad and Operate as a Design Agency.",
         "boldtext":"Squads & Design, Who Cares?",
         "bodytext":"",
-        "link":""
+        "link":"", 
+        "color":"#9561D3"
     },
     {
         "id":2,
@@ -15,7 +16,8 @@
         "subtitle":"A sentence about the goal of this workshop.",
         "boldtext":"",
         "bodytext":"",
-        "link":""
+        "link":"",
+        "color":"#FFFFFF"
     },
     {
         "id":3,
@@ -24,7 +26,8 @@
         "subtitle":"",
         "boldtext":"",
         "bodytext":"What is creative operations and why should we care about how we work. And how we can manage others work too. Write something about squads. Where can this come from and why it is important. Cross polination with a cool graphic.",
-        "link":""
+        "link":"",
+        "color":"#D779E2"
     },
     {
         "id":4,
@@ -33,6 +36,7 @@
         "subtitle":"",
         "boldtext":"",
         "bodytext":"",
-        "link":"www.manypossibles.com"
+        "link":"www.manypossibles.com",
+        "color":"#FFFFFF"
     }
 ]
