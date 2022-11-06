@@ -3,7 +3,7 @@
         "id":1,
         "name": "Start",
         "header":"",
-        "subtitle":"Design Ops: A Guide To Building a Squad and Operate as a Design Agency.",
+        "subtitle":"Design Ops: A Guide To Building a Squad and Operate as a Creative Agency.",
         "boldtext":"Squads, Tribes, & Design, Who Cares?",
         "bodytext":"",
         "link":"", 
@@ -38,7 +38,7 @@
         "header":"",
         "subtitle":"",
         "boldtext":"Get Started",
-        "link":"www.manypossibles.com",
+        "link":"",
         "color":"#D779E2",
         "textcolor":"#FFFFFF"
     }
