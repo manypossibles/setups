@@ -68,18 +68,6 @@
                 "name": "",
                 "header":"",
                 "subtitle":"",
-                "bodytext":"",
-                "boldtext":"",
-                "link":"",
-                "step":"1",
-                "color":"#FFFFFF",
-                "textcolor":"#000000"
-            },
-            {
-                "id":6,
-                "name": "",
-                "header":"",
-                "subtitle":"",
                 "bodytext":"Seed the conversation. Individually, before getting the team together, gather values from other teams or people and jot down a few notes. Review the sample to get an understanding of what your squad will be making:",
                 "boldtext":"",
                 "link":"",
@@ -156,18 +144,6 @@
                 "boldtext":"",
                 "link":"",
                 "step":"7",
-                "color":"#FFFFFF",
-                "textcolor":"#000000"
-            },
-            {
-                "id":6,
-                "name": "",
-                "header":"",
-                "subtitle":"",
-                "bodytext":"",
-                "boldtext":"",
-                "link":"",
-                "step":"1",
                 "color":"#FFFFFF",
                 "textcolor":"#000000"
             }]
