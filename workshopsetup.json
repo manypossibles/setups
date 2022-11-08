@@ -64,7 +64,7 @@
         "textcolor":"#000000",
         "steps":[
             {
-                "id":6,
+                "id":1,
                 "name": "",
                 "header":"",
                 "subtitle":"",
@@ -76,7 +76,7 @@
                 "textcolor":"#000000"
             },
             {
-                "id":7,
+                "id":2,
                 "name": "",
                 "header":"",
                 "subtitle":"",
@@ -88,7 +88,7 @@
                 "textcolor":"#000000"
             },
             {
-                "id":8,
+                "id":3,
                 "name": "",
                 "header":"",
                 "subtitle":"",
@@ -100,7 +100,7 @@
                 "textcolor":"#000000"
             },
             {
-                "id":9,
+                "id":4,
                 "name": "",
                 "header":"",
                 "subtitle":"",
@@ -112,7 +112,7 @@
                 "textcolor":"#000000"
             },
             {
-                "id":10,
+                "id":5,
                 "name": "",
                 "header":"",
                 "subtitle":"",
@@ -124,7 +124,7 @@
                 "textcolor":"#000000"
             },
             {
-                "id":11,
+                "id":6,
                 "name": "",
                 "header":"",
                 "subtitle":"",
@@ -136,7 +136,7 @@
                 "textcolor":"#000000"
             },
             {
-                "id":12,
+                "id":7,
                 "name": "",
                 "header":"",
                 "subtitle":"",
