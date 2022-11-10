@@ -10,7 +10,8 @@
         "step":"", 
         "steps":"",
         "color":"#9561D3",
-        "textcolor":"#FFFFFF"
+        "textcolor":"#FFFFFF",
+        "img":""
     },
     {
         "id":2,
@@ -23,7 +24,8 @@
         "step":"",
         "steps":"",
         "color":"#FFFFFF",
-        "textcolor":"#000000"
+        "textcolor":"#000000",
+        "img":"https://manypossibles.com/wp-content/themes/ManyPossibles/images/squads_geometric_abstract.png"
     },
     {
         "id":3,
@@ -36,7 +38,8 @@
         "step":"",
         "steps":"",
         "color":"#FFFFFF",
-        "textcolor":"#000000"
+        "textcolor":"#000000",
+        "img":""
     },
     {
         "id":4,
@@ -49,7 +52,8 @@
         "steps":"",
         "link":"",
         "color":"#D779E2",
-        "textcolor":"#FFFFFF"
+        "textcolor":"#FFFFFF",
+        "img":""
     },
     {
         "id":5,
@@ -61,7 +65,8 @@
         "link":"",
         "step":"",
         "color":"#FF6600",
-        "textcolor":"#000000",
+        "textcolor":"#000000",,
+        "img":"",
         "steps":[
             {
                 "id":1,
@@ -73,7 +78,8 @@
                 "link":"",
                 "step":"1",
                 "color":"#FFFFFF",
-                "textcolor":"#000000"
+                "textcolor":"#000000",
+                "img":""
             },
             {
                 "id":2,
@@ -85,7 +91,8 @@
                 "link":"",
                 "step":"2",
                 "color":"#FFFFFF",
-                "textcolor":"#000000"
+                "textcolor":"#000000",
+                "img":""
             },
             {
                 "id":3,
@@ -97,7 +104,8 @@
                 "link":"",
                 "step":"3",
                 "color":"#FFFFFF",
-                "textcolor":"#000000"
+                "textcolor":"#000000",
+                "img":""
             },
             {
                 "id":4,
@@ -109,7 +117,8 @@
                 "link":"",
                 "step":"4",
                 "color":"#FFFFFF",
-                "textcolor":"#000000"
+                "textcolor":"#000000",
+                "img":""
             },
             {
                 "id":5,
@@ -121,7 +130,8 @@
                 "link":"",
                 "step":"5",
                 "color":"#FFFFFF",
-                "textcolor":"#000000"
+                "textcolor":"#000000",
+                "img":""
             },
             {
                 "id":6,
@@ -133,7 +143,8 @@
                 "link":"",
                 "step":"6",
                 "color":"#FFFFFF",
-                "textcolor":"#000000"
+                "textcolor":"#000000",
+                "img":""
             },
             {
                 "id":7,
@@ -145,7 +156,8 @@
                 "link":"",
                 "step":"7",
                 "color":"#FFFFFF",
-                "textcolor":"#000000"
+                "textcolor":"#000000",
+                "img":""
             },
             {
                 "id":8,
@@ -157,7 +169,8 @@
                 "link":"",
                 "step":"8",
                 "color":"#FFFFFF",
-                "textcolor":"#000000"
+                "textcolor":"#000000",
+                "img":""
             }]
     },
     {
@@ -171,7 +184,8 @@
         "step":"",
         "steps":"",
         "color":"##3D003B",
-        "textcolor":"#FFFFFF"
+        "textcolor":"#FFFFFF",
+        "img":""
     }
     
 ]
