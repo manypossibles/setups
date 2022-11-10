@@ -146,6 +146,18 @@
                 "step":"7",
                 "color":"#FFFFFF",
                 "textcolor":"#000000"
+            },
+            {
+                "id":8,
+                "name": "",
+                "header":"",
+                "subtitle":"",
+                "bodytext":"Further discussion may be required to trim the list to the essentials. Once you have a final list, create a shared document with a detailed description of each value.",
+                "boldtext":"",
+                "link":"",
+                "step":"8",
+                "color":"#FFFFFF",
+                "textcolor":"#000000"
             }]
     },
     {
