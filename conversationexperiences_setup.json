@@ -154,7 +154,7 @@
         "header":"Natural Language Processing",
         "subtitle":"Nuts and Bolts",
         "boldtext":"",
-        "bodytext":"Machine learning and natural language processing is what lies behind a computers ability understand text and speach. But the computer can't do it all by itself. In designing a conversational experiennce it needs guidance from us. So it is helpful to know a few key terms we are going to put to use later.",
+        "bodytext":"Machine learning and natural language processing is what lies behind a computers ability understand text and speach. But the computer can't do it all by itself. In designing a conversational experience it needs guidance. This is the data that is used to train the model. So it is helpful to know a few key terms we are going to put to use later.",
         "step":"",
         "steps":"",
         "link":"",
@@ -287,13 +287,13 @@
                 "name": "",
                 "header":"2",
                 "subtitle":"People or your customers would describe you as.",
-                "bodytext":"List the top three adjectives that would define you as a person.",
+                "bodytext":"List the top three adjectives that would define you as a person. You can prioritize these by indicating how much you want to be perceived each.",
                 "boldtext":"",
                 "link":"",
                 "step":"",
                 "color":"#FFFFFF",
                 "textcolor":"#000000",
-                "img":""
+                "img":"https://manypossibles.com/wp-content/uploads/2022/12/conversational_design_personality.png"
             },
             {
                 "id":3,
@@ -332,7 +332,7 @@
                 "step":"",
                 "color":"#FFFFFF",
                 "textcolor":"#000000",
-                "img":""
+                "img":"https://manypossibles.com/wp-content/uploads/2022/12/conversational_design_example.png"
             },
             {
                 "id":5,
@@ -365,6 +365,20 @@
     {
         "id":6,
         "name": "",
+        "header":"",
+        "subtitle":"The examples will be inspired by the personality of Gordon Ramsay and be an expert in making eggs. But make whatever you want or need.",
+        "boldtext":"",
+        "bodytext":"",
+        "step":"",
+        "steps":"",
+        "link":"",
+        "color":"#FFFFFF",
+        "textcolor":"#000000",
+        "img":"https://manypossibles.com/wp-content/uploads/2022/12/gr_egg.gif"
+    },
+    {
+        "id":6,
+        "name": "",
         "header":"Designing The Conversation",
         "subtitle":"Now that we have defined the personality, we have to empathize with our customers to design the conversation that meets their needs.",
         "boldtext":"Go To It!",
@@ -384,7 +398,7 @@
                 "boldtext":"",
                 "link":"",
                 "step":"",
-                "color":"#F2EDE9",
+                "color":"#FFFFFF",
                 "textcolor":"#000000",
                 "img":""
             },
@@ -397,7 +411,7 @@
                 "boldtext":"",
                 "link":"",
                 "step":"",
-                "color":"#F2EDE9",
+                "color":"#FFFFFF",
                 "textcolor":"#000000",
                 "img":""
             },
@@ -410,7 +424,7 @@
                 "boldtext":"",
                 "link":"",
                 "step":"",
-                "color":"#F2EDE9",
+                "color":"#FFFFFF",
                 "textcolor":"#000000",
                 "img":""
             },
@@ -423,7 +437,7 @@
                 "boldtext":"",
                 "link":"",
                 "step":"",
-                "color":"#F2EDE9",
+                "color":"#FFFFFF",
                 "textcolor":"#000000",
                 "img":""
             },
@@ -436,7 +450,7 @@
                 "boldtext":"",
                 "link":"",
                 "step":"",
-                "color":"#F2EDE9",
+                "color":"#FFFFFF",
                 "textcolor":"#000000",
                 "img":""
             },
