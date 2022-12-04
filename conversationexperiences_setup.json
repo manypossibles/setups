@@ -58,8 +58,8 @@
     {
         "id":4,
         "name": "Voice Interaction",
-        "header":"Natural Conversations",
-        "subtitle":"Conversational principles to know",
+        "header":"Conversational Principles",
+        "subtitle":"Making a natural dialogue",
         "boldtext":"",
         "bodytext":"A converstaional experience really needs to feel human to work well. So we have to have an understanding of how we converse. Google has summarized some conversational principles we can adhere to. They can provide a structure for our agent so it can feel like we are conversing with a human as much as possible. And hence make the conversation natural.",
         "step":"",
@@ -180,39 +180,39 @@
                 "name": "",
                 "header":"",
                 "subtitle":"Intents",
-                "bodytext":"In communication we have a goal. What is the goal of the statement. What is the customer or user trying to accomplish.",
+                "bodytext":"Language and communication is a means to act and make change in the world. So when we enter a dialogue with another it contains an intent or goal that we have. Our utterances are manifestation of a desired outcome that we want. Intents are then the sentences, in different forms like questions, statements, etc. that a user or customer tell us.",
                 "boldtext":"",
                 "link":"",
                 "step":"",
                 "color":"#FFFFFF",
                 "textcolor":"#000000",
-                "img":""
+                "img":"https://manypossibles.com/wp-content/uploads/2022/12/conversational_design_intent.png"
             },
             {
                 "id":2,
                 "name": "",
                 "header":"",
                 "subtitle":"Keywords",
-                "bodytext":"The important words that give clues as to is trying to be communicated in a sentence.",
+                "bodytext":"Keywords are the the important words within the intents that give clues as to what is trying to be communicated. We use these to help identify the intent so we can have a meaningful response.",
                 "boldtext":"",
                 "link":"",
                 "step":"",
                 "color":"#FFFFFF",
                 "textcolor":"#000000",
-                "img":""
+                "img":"https://manypossibles.com/wp-content/uploads/2022/12/conversational_design_keyword.png"
             },
             {
                 "id":3,
                 "name": "",
                 "header":"",
                 "subtitle":"Entities",
-                "bodytext":"Something about variation. From the keywords. Synonmys",
+                "bodytext":"An entity is a keyword and its synonyms. By taking a keyword and including synonyms and variations we can make sure we are able to recognize all the different ways the same intent could be formulated.",
                 "boldtext":"",
                 "link":"",
                 "step":"",
                 "color":"#FFFFFF",
                 "textcolor":"#000000",
-                "img":""
+                "img":"https://manypossibles.com/wp-content/uploads/2022/12/conversational_design_entity.png"
             },
             {
                 "id":4,
